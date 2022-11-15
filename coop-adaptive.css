@@ -1,0 +1,171 @@
+@media (min-width: 992px) and (max-width: 1199px) {
+  .coop-container__hatch {
+    width: 482px;
+    margin-right: 56px;
+  }
+
+  .coop-container__across {
+    margin-top: 435px;
+}
+
+  .coop-container__sqare {
+    width: 626px;
+    height: 569px;
+    margin-top: 240px;
+    margin-right: 115px;
+}
+
+  .coop-container__img  {
+    width: 662px;
+    height: 662px;
+    margin-top: 55px;
+    margin-right: 277px;
+  }
+
+  .coop-container__content {
+    width: 465px;
+    height: 489px;
+    margin-top: 380px;
+    margin-left: 435px;
+    padding: 25px 40px;
+}
+
+  .coop-container__content a {
+    font-size: 25px;
+  }
+}
+
+@media (min-width: 765px) and (max-width: 991px) {
+  .coop-container, .coop-container__hatch {
+    height: 950px;
+  }
+
+  .coop-container__hatch {
+    width: 435px;
+    margin-right: 20px;
+  }
+
+  .coop-container__across {
+    margin-top: 470px;
+    height: 250px;
+  }
+
+  .coop-container__sqare {
+    width: 564px;
+    height: 537px;
+    margin-top: 270px;
+    margin-right: -35px;
+  }
+
+  .coop-container__img  {
+    width: 557px;
+    height: 557px;
+    margin-top: 55px;
+    margin-right: 160px;
+  }
+
+  .coop-container__content {
+    width: 465px;
+    height: 480px;
+    margin-top: 425px;
+    margin-left: 250px;
+  }
+
+  .coop-container__content a {
+    font-size: 25px;
+  }
+}
+
+
+@media (min-width: 576px) and (max-width: 764px) {
+  .coop-container, .coop-container__hatch {
+    height: 1008px;
+  }
+
+  .coop-container__hatch {
+    width: 308px;
+    margin-right: 25px;
+  }
+
+  .coop-container__across {
+    margin-top: 470px;
+    height: 250px;
+  }
+
+  .coop-container__sqare {
+    width: 452px;
+    height: 540px;
+    margin-top: 270px;
+    margin-right: -90px;
+  }
+
+  .coop-container__img  {
+    width: 479px;
+    height: 479px;
+    margin-top: 70px;
+    margin-right: 60px;
+  }
+
+  .coop-container__content {
+    width: 465px;
+    height: 466px;
+    margin-top: 470px;
+    margin-left: -75px;
+    padding: 25px 40px;
+  }
+
+  .coop-container__content a {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 575px) {
+  .coop-container, .coop-container__hatch {
+    height: 916px;
+  }
+
+  .coop-container__hatch {
+    width: 239px;
+    margin-right: -25px;
+  }
+
+  .coop-container__across {
+    margin-top: 255px;
+    height: 153px;
+  }
+
+  .coop-container__sqare {
+    width: 279px;
+    height: 354px;
+    margin-top: 153px;
+    margin-right: -60px;
+  }
+
+  .coop-container__img  {
+    width: 315px;
+    height: 315px;
+    margin-top: 50px;
+    margin-right: 25px;
+  }
+
+  .coop-container__content {
+    width: 308px;
+    height: 521px;
+    margin-top: 336px;
+    margin-left: -33px;
+    padding: 25px 30px;
+  }
+
+  .coop-container__content h1 {
+    font-size: 30px;
+  }
+
+  .coop-container__content p {
+    font-size: 18px;
+  }
+
+  .coop-container__content a {
+    margin-top: 50px;
+    font-size: 20px;
+  }
+}
